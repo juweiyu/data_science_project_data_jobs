@@ -10,14 +10,14 @@ Our raw datasets include newly released data science jobs, data engineering jobs
 
 
 ## Notebooks
-#### Data preprocessing
-https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/01_data_cleaning.ipynb
+#### Classification
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/03_classification.ipynb
 
-#### Data visualisation
-https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/02_data_visualisation.ipynb
+#### Regression
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/04_regression.ipynb
 
-#### A reference table
-https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/reference_table.xlsx
+#### Clustering
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/05_clustering.ipynb
 
 ## Project highlights
 
