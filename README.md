@@ -27,7 +27,7 @@ https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/05
 
 ## REFERENCE
 
-[1] Friedman, Jerome H. "Greedy function approximation: a gradient boosting machine." Annals of statistics (2001): 1189-1232.
+[1] Friedman, Jerome H. "Greedy function approximation: a gradient boosting machine." Annals of statistics (2001): 1189-1232.  
 [2] Ho, Tin Kam. "Random decision forests." Proceedings of 3rd international conference on document analysis and recognition. Vol. 1. IEEE, 1995.
 
 
