@@ -13,13 +13,13 @@ For classification and regression, the best result comes from gradient boosting 
 
 ## Notebooks
 #### Classification
-https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/03_classification.ipynb
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/01_classification.ipynb
 
 #### Regression
-https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/04_regression.ipynb
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/02_regression.ipynb
 
 #### Clustering
-https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/05_clustering.ipynb
+https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/03_clustering.ipynb
 
 ## Project highlights
 
