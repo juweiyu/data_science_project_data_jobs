@@ -26,7 +26,9 @@ https://github.com/juweiyu/data_science_project_data_jobs/blob/main/notebooks/03
 ![alt text](https://github.com/juweiyu/data_science_project_data_jobs/blob/main/images/highlights.jpg)
 
 ## Results
-....
+1. Out of all the classfiers, the 'gradient boost' with cross validation produced the best performance with the f1 score of up to 0.99.
+2. Out of all regressors, random forest regressor with cross validation can produce the best performance on the testing data set with the R2 Square of 0.463.
+3. Out of all features, location and domain demonstate the most importance.
 
 ## REFERENCE
 
